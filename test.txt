@@ -5,3 +5,4 @@ diff check2
 branch feature-A
 test_スポットリポジトリ
 feature_C
+feature_D
